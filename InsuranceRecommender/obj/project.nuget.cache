@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2h9ZNDaMmbSRQrLADWcq7kUL79I+QK/yRkfYJYML/Zf+yzWOX+BwJINrZBiyjZDO3pjBjV/0l/kE97xNRDBwoA==",
+  "dgSpecHash": "sgCJ6jurDjw7nsSnCPbnqDY4Wa1sMDmrP9Ir8+vEiF1gHeHijCbHZfJm2ShEyrofCGEqfFrrdXZ35588Cwu4Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlos.veras\\source\\repos\\InsuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj",
+  "projectFilePath": "C:\\repos\\insuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos.veras\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",
     "C:\\Users\\carlos.veras\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos.veras\\source\\repos\\InsuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj": {}
+    "C:\\repos\\insuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos.veras\\source\\repos\\InsuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj": {
+    "C:\\repos\\insuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.veras\\source\\repos\\InsuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj",
+        "projectUniqueName": "C:\\repos\\insuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj",
         "projectName": "InsuranceRecommender",
-        "projectPath": "C:\\Users\\carlos.veras\\source\\repos\\InsuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj",
+        "projectPath": "C:\\repos\\insuranceRecommender\\InsuranceRecommender\\InsuranceRecommender.csproj",
         "packagesPath": "C:\\Users\\carlos.veras\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.veras\\source\\repos\\InsuranceRecommender\\InsuranceRecommender\\obj\\",
+        "outputPath": "C:\\repos\\insuranceRecommender\\InsuranceRecommender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlos.veras\\AppData\\Roaming\\NuGet\\NuGet.Config",
